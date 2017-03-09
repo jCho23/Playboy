@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E19B6953-8180-4F97-AC2A-54F0ABEE47A0}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Playboy/Tests.cs">
+    <Files>
+      <File FileName="Playboy/AppInitializer.cs" Line="34" Column="23" />
+      <File FileName="Playboy/Tests.cs" Line="70" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Playboy" expanded="True">
+            <Node name="Playboy" expanded="True">
+              <Node name="Playboy" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Playboy PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
